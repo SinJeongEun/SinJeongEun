@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/springSecurity-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 
 <br>
-<img src="https://img.shields.io/badge/jUnit-25A162?style=for-the-badge&logo=jUnit&logoColor=white">
+<img src="https://img.shields.io/badge/jUnit5-25A162?style=for-the-badge&logo=jUnit5&logoColor=white">
 <img src="https://img.shields.io/badge/jpa-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
 <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
 
