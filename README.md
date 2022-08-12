@@ -1,23 +1,7 @@
 ### Hi welcome, i'm JeongEun Shin 👋
-<div align=center><h1>🛠️ STACKS</h1></div>
-<!--
-**SinJeongEun/SinJeongEun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div align=center><h1>🛠️ STACKS</h1></div>
-
-<div align=center>
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+<div align=center><h2>🛠️ STACKS</h2>
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/springSecurity-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
@@ -41,7 +25,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <br>
 
-<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SinJeongEun&show_icons=true&theme=radical)
+
 
 </div>
