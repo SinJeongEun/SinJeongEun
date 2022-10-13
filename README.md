@@ -28,4 +28,6 @@
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SinJeongEun&show_icons=true&theme=radical)
+<br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=j2c2g5)](https://solved.ac/j2c2g5/)
 </div>
